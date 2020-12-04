@@ -12,6 +12,7 @@ import Modelo.Enums.Stands;
  * @author mac
  */
 public class Informe {
+    //cambios xd
     private LibrosTS LibrosTS ;
     private Stands stands;
     private int num_libros_tematica;
